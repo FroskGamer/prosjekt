@@ -3,8 +3,8 @@
 import re
 import sys
 
-INPUT = "wordList.txt"
-OUTPUT = "wordList_5bokstaver.txt"
+INPUT = ""
+OUTPUT = ""
 
 letter_re = re.compile(r'^[a-zæøå]+$', re.IGNORECASE)
 
